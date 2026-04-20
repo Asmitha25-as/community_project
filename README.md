@@ -44,13 +44,8 @@ Here’s a **perfect, minimal + eye-catching README** tailored to your 2-file pr
 
 ## 🚀 How to Run
 
-### 1️⃣ Install dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-### 2️⃣ Run the app
+### Run the app
 
 ```bash
 streamlit run "community water quality monitoring.py"
@@ -76,9 +71,8 @@ The model uses the following features:
 
 ## 🎯 Output
 
-* ✅ **Potable (Safe to Drink)**
-* ❌ **Not Potable (Unsafe)**
-* 📊 Confidence Score
+<img width="1917" height="1006" alt="image" src="https://github.com/user-attachments/assets/ba1735f4-c32a-4e36-86f5-03db47e840f6" />
+
 
 ---
 
